@@ -1,0 +1,39 @@
+.wrapper {
+    width: 40rem;
+    background-color: #fff;
+    border-radius: 24px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 30px 32px;
+    margin: 45px 0px;
+}
+
+.flexRow {
+    display: flex;
+    flex-direction: row;
+
+}
+
+h3 {
+    font-size: 23px;
+    width: 100%;
+}
+
+.btn {
+    padding: 16px 24px;
+    color: #fff;
+    background-color: #0663EF;
+    border-radius: 12px;
+    border: none;
+    margin-right: 16px;
+}
+
+.return {
+    background-color: #EBF3FE;
+    color: #0663EF;
+}
+
+form {
+    width: 100%;
+}
